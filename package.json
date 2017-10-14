@@ -1,7 +1,7 @@
 {
-  "name": "@cloudflare-apps/example",
+  "name": "experiment.com-funding-bar",
   "version": "0.0.0",
-  "description": "",
+  "description": "Experiment.com Funding Bar",
   "main": "app.js",
   "scripts": {
     "lint": "standard --fix ./source/**/*.js || true"
@@ -9,14 +9,14 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CloudflareApps/ExampleApp.git"
+    "url": "git+https://github.com/judytuna/experiment.com-funding-bar.git"
   },
-  "author": "Cloudflare Inc.",
+  "author": "Jade Wang and Judy Tuan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CloudflareApps/ExampleApp/issues"
+    "url": "https://github.com/judytuna/experiment.com-funding-bar/issues"
   },
-  "homepage": "https://github.com/CloudflareApps/ExampleApp#readme",
+  "homepage": "https://github.com/judytuna/experiment.com-funding-bar#readme",
   "dependencies": {},
   "devDependencies": {
     "standard": "^9.0.2"
